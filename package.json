@@ -1,0 +1,13 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "ToDoList w/ Node, Express & MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": "git@github.com:OmarMWarraich/todolist.git",
+  "author": "OmarMWarraich <earthling986@gmail.com>",
+  "license": "MIT"
+}
